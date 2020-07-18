@@ -3,7 +3,7 @@
 </p>
 
 ### 👋 Hey Guys I'm a Software Engineer
-I'm currently working on opensource ideas of my own. Previously worked with many private repositories clients now my goal is to promote projects for opensource communtiy.
+I'm currently working on opensource ideas of my own. Previously worked with many private repository clients now my goal is to promote projects for opensource communtiy.
 
 ### 👨‍💻 Tech Stack
 
