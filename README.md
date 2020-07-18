@@ -42,7 +42,7 @@ I'm currently working on opensource ideas of my own. Previously worked with many
 <p align="center">
   <samp>
     <br><br>:coffee: Wanna chat? :point_right: @ me on 
-    <a href="https://twitter.com/groverception">
+    <a href="https://twitter.com/groverception" target=”_blank”>
       <img src="https://cdn.svgporn.com/logos/twitter.svg" style="padding-top:10px"  width="20px"></a>
   </samp>
 </p>
