@@ -3,8 +3,7 @@
 </p>
 
 ### 👋 Hey Guys I'm a Software Engineer
-I'm currently working on opensource ideas of my own. Previously worked with many private repositories clients.
-
+I'm currently working on opensource ideas of my own. Previously worked with many private repositories clients now my goal is to promote projects for opensource communtiy.
 
 ### 👨‍💻 Tech Stack
 
@@ -38,4 +37,13 @@ I'm currently working on opensource ideas of my own. Previously worked with many
     </tr>
       </tbody>
 </table>
+
+
+<p align="center">
+  <samp>
+    <br><br>:coffee: Wanna chat? :point_right: @ me on 
+    <a href="https://twitter.com/groverception">
+      <img src="https://cdn.svgporn.com/logos/twitter.svg" style="padding-top:10px"  width="20px"></a>
+  </samp>
+</p>
 
