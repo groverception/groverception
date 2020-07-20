@@ -29,11 +29,11 @@ I'm currently working on opensource ideas of my own. Previously worked with many
       </td>
       <td width="16.6%" align="center">
         <span>Java</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
         <td width="16.6%" align="center">
         <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
         </td>
     </tr>
       </tbody>
