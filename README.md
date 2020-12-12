@@ -12,6 +12,10 @@ I'm currently working on opensource ideas of my own. Previously worked with many
   <tbody>
     <tr valign="top">
       <td width="14.28%" align="center">
+        <span>Flutter</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+      </td>
+      <td width="14.28%" align="center">
         <span>Javascript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
