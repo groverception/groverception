@@ -5,6 +5,9 @@
 ![](https://still-brushlands-82734.herokuapp.com/countercheck)
 ### 👋 
 Anuj has 6 years of software development experience in frontend and backend technologies across healthcare, renewable energy, and life-sciences domain. Being a Typescript / JavaScript enthusiast, he worked on the React / Angular / Vue (typescript) framework.
+
+<br/>
+<br/>
 Alongside he also dealt with JAVA (spring framework) / Python / Node JS for most of his clients. Anuj has efficiency in handling technical architecture, system design, software development and release management of web applications for B2B clients with a strong understanding of Agile Principles. Anuj is ambitious and goal oriented and is always eager to learn new technologies.
 
 
