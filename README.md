@@ -3,49 +3,11 @@
 </p>
 
 ![](https://still-brushlands-82734.herokuapp.com/countercheck)
-### 👋 Hey Guys I'm a Software Engineer
-I'm currently working on opensource ideas of my own. Previously worked with many private repository clients now my goal is to promote projects for opensource communtiy.
+### 👋 
+Anuj has 6 years of software development experience in frontend and backend technologies across healthcare, renewable energy, and life-sciences domain. Being a Typescript / JavaScript enthusiast, he worked on the React / Angular / Vue (typescript) framework.
+Alongside he also dealt with JAVA (spring framework) / Python / Node JS for most of his clients. Anuj has efficiency in handling technical architecture, system design, software development and release management of web applications for B2B clients with a strong understanding of Agile Principles. Anuj is ambitious and goal oriented and is always eager to learn new technologies.
 
-### 👨‍💻 Tech Stack
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="14.28%" align="center">
-        <span>Flutter</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Nest JS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Vue JS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Angular</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Java</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-        <td width="14.28%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-        </td>
-    </tr>
-      </tbody>
-</table>
 
 
 <p align="center">
