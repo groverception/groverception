@@ -1,17 +1,14 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpjNzNjaGU0NnNuajZ1M2dtM3kxOWtxaDI4czZqcXNmMWRjbm9tYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width="200px">
 </p>
 
-![](https://still-brushlands-82734.herokuapp.com/countercheck)
+
 ### 👋 
-Anuj has 6 years of software development experience in frontend and backend technologies across healthcare, renewable energy, and life-sciences domain. Being a Typescript / JavaScript enthusiast, he worked on the React / Angular / Vue (typescript) framework.
+Accumulated 7+ years of software development experience, encompassing rich frontend technologies within the healthcare, renewable energy, fin-tech, and life sciences domains. My exuberance lies in TypeScript and JavaScript, actively contributing to projects utilizing React, Angular, Vue, and various other JavaScript frameworks.
 
-<br/>
-<br/>
-Alongside he also dealt with JAVA (spring framework) / Python / Node JS for most of his clients. Anuj has efficiency in handling technical architecture, system design, software development and release management of web applications for B2B clients with a strong understanding of Agile Principles. Anuj is ambitious and goal oriented and is always eager to learn new technologies.
+Additionally, navigated through Node.js, Java (Spring framework), and multiple cloud providers. Possess expertise in managing technical architecture, system design, software development, and release management for B2B web applications, while concurrently maintaining a comprehensive understanding of Agile Principles. Driven by ambition and a goal-oriented mindset, I maintain a constant eagerness to learn and adapt to new technologies.
 
-
-
+Unfortunately I have not contributed much over public repos but I would love to solve a  problem within my scope.
 
 <p align="center">
   <samp>
