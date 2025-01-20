@@ -4,7 +4,7 @@
 
 
 ### 👋 
-Accumulated 7+ years of software development experience, encompassing rich frontend technologies within the healthcare, renewable energy, fin-tech, and life sciences domains. My exuberance lies in TypeScript and JavaScript, actively contributing to projects utilizing React, Angular, Vue, and various other JavaScript frameworks.
+Accumulated 8+ years of software development experience, encompassing rich frontend technologies within the healthcare, renewable energy, fin-tech, and life sciences domains. My exuberance lies in TypeScript and JavaScript, actively contributing to projects utilizing React, Angular, Vue, and various other JavaScript frameworks.
 
 Additionally, navigated through Node.js, Java (Spring framework), and multiple cloud providers. Possess expertise in managing technical architecture, system design, software development, and release management for B2B web applications, while concurrently maintaining a comprehensive understanding of Agile Principles. Driven by ambition and a goal-oriented mindset, I maintain a constant eagerness to learn and adapt to new technologies.
 
