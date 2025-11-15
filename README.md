@@ -4,11 +4,14 @@
 
 
 ### 👋 
-Accumulated 8+ years of software development experience, encompassing rich frontend technologies within the healthcare, renewable energy, fin-tech, and life sciences domains. My exuberance lies in TypeScript and JavaScript, actively contributing to projects utilizing React, Angular, Vue, and various other JavaScript frameworks.
+30 | Husband | Technical Lead | Software Designer 🧑‍💻
 
-Additionally, navigated through Node.js, Java (Spring framework), and multiple cloud providers. Possess expertise in managing technical architecture, system design, software development, and release management for B2B web applications, while concurrently maintaining a comprehensive understanding of Agile Principles. Driven by ambition and a goal-oriented mindset, I maintain a constant eagerness to learn and adapt to new technologies.
+9 years in code
 
-Unfortunately I have not contributed much over public repos but I would love to solve a  problem within my scope.
+Advance Expertise in JavaScript / Angular / Vue / React / ES6 / TypeScript
+
+Creating SaaS ✨ Products for years
+
 
 <p align="center">
   <samp>
@@ -17,4 +20,15 @@ Unfortunately I have not contributed much over public repos but I would love to 
       <img src="https://cdn.svgporn.com/logos/twitter.svg" style="padding-top:10px"  width="20px"></a>
   </samp>
 </p>
+
+
+
+<p align="center">
+  <samp>
+    or meet me here
+    <a href="https://www.linkedin.com/in/anujgrover01" target=”_blank”>
+      <img src="https://cdn.svgporn.com/logos/linkedin.svg" style="padding-top:10px"  width="50px"></a>
+  </samp>
+</p>
+
 
